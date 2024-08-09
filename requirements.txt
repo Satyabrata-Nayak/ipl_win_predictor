@@ -2,4 +2,4 @@ pandas
 pickle4
 streamlit
 gunicorn
-
+scikit-learn
