@@ -1,4 +1,4 @@
-import pickle
+import pickle4 as pickle
 import pandas as pd
 import streamlit as st
 teams = ['Kolkata Knight Riders', 'Chennai Super Kings', 'Rajasthan Royals',
